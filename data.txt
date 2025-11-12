@@ -1,0 +1,10 @@
+features to be tested : 1.Load testing 2.Availability 3.Flexibility
+Approach: 1. Integration (top-down) 2.80% of unit test 3.Security
+Environmental needs : Internet , Software , Load Runner
+Staff and training needs :the staff is working on **** first so training on these aspects will be provided also 1 week training on testing also provided.
+Responsibilities: 
+the manager should prepare test plan , resource allocation , approval of test reports.
+the test lead should create test cases, strategy
+the test engineer should execute test cases , give daily updates of test process
+Schedule: total 15 days of test schedule, 3 days unit test, 5 days top-down testing, 5 days security and performance ,2 days documentation
+approvals: a head will approve the test plan and the manager will approve the test cases.
