@@ -4,11 +4,20 @@ https://github.com/johnpapa/node-hello
 Question 2 (PHP Application)
 https://github.com/saadactin/php_portfolio.git
 php -S 127.0.0.1:8000
-
+ 
 Question 3 (Django Application)
+Question 4 (Ruby Application)
 
 Question 5 (Python Application)
 https://github.com/stefanbschneider/django-hello-world
 
 Question 6 (Python Flask Application)
 https://github.com/PyByAnshul/simple-todo
+
+Question 7 (Java Application)
+https://github.com/jabedhasan21/java-hello-world-with-maven
+Mvn compile
+Mvn package
+Cd target
+Then java -cp 
+then tab krt jaych ani hl. Jar file yet ty ala ki run krych
