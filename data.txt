@@ -25,3 +25,6 @@ then tab krt jaych ani hl. Jar file yet ty ala ki run krych
 Question 9 (PHP Application)
 https://github.com/ASoares/PHP-Form-Validation
 php -S 127.0.0.1:8000/index/php
+
+Question 9 (Python notes Application)
+https://github.com/punitzen/Note-keeping-app-django?tab=readme-ov-file
