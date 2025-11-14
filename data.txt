@@ -23,11 +23,12 @@ application.properties add username:root and pasword:root of mysql
 create db named expenses_tracker
 
 Option 2: https://github.com/jabedhasan21/java-hello-world-with-maven
-Mvn compile
-Mvn package
-Cd target
-Then java -cp 
-then tab krt jaych ani hl. Jar file yet ty ala ki run krych
+Go to project and run the below commands a) mvn compile 
+b) mvn package 
+c) cd target 
+d) type java -cp 
+(after space tap tab until .jar file come and type then ‘hello.HelloWorld’) 
+e) press enter
 
 Option 3: https://github.com/saadactin/java_portfolio (follow windows.md)
 
