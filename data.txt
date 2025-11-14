@@ -6,6 +6,8 @@ https://github.com/saadactin/php_portfolio.git
 php -S 127.0.0.1:8000
  
 Question 3 (Django Application)
+https://github.com/stefanbschneider/django-hello-world
+
 Question 4 (Ruby Application)
 
 Question 5 (Python Application)
@@ -15,6 +17,10 @@ Question 6 (Python Flask Application)
 https://github.com/PyByAnshul/simple-todo
 
 Question 7 (Java Application)
+https://github.com/mohamed0sawy/Expenses-Tracker-WebApp(with db)
+application.properties add username:root and pasword:root of mysql
+create db named expenses_tracker
+
 https://github.com/jabedhasan21/java-hello-world-with-maven
 Mvn compile
 Mvn package
@@ -24,7 +30,8 @@ then tab krt jaych ani hl. Jar file yet ty ala ki run krych
 
 Question 9 (PHP Application)
 https://github.com/ASoares/PHP-Form-Validation
-php -S 127.0.0.1:8000/index/php
+php -S 127.0.0.1:8000/index.php
 
-Question 9 (Python notes Application)
+Question 10 (Python notes Application)
 https://github.com/punitzen/Note-keeping-app-django?tab=readme-ov-file
+
