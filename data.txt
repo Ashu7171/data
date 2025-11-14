@@ -1,14 +1,15 @@
 Question 1 (Node Application)
-https://github.com/johnpapa/node-hello
+https://github.com/johnpapa/node-hello(follow readme.md)
 
 Question 2 (PHP Application)
 https://github.com/saadactin/php_portfolio.git
 php -S 127.0.0.1:8000
  
 Question 3 (Django Application)
-https://github.com/stefanbschneider/django-hello-world
+https://github.com/stefanbschneider/django-hello-world (follow readme.md)
 
 Question 4 (Ruby Application)
+https://github.com/saadactin/ruby_portfolio (only on windows)
 
 Question 5 (Python Application)
 https://github.com/stefanbschneider/django-hello-world
@@ -17,18 +18,21 @@ Question 6 (Python Flask Application)
 https://github.com/PyByAnshul/simple-todo
 
 Question 7 (Java Application)
-https://github.com/mohamed0sawy/Expenses-Tracker-WebApp(with db)
+Option 1: https://github.com/mohamed0sawy/Expenses-Tracker-WebApp(with db)
 application.properties add username:root and pasword:root of mysql
 create db named expenses_tracker
 
-https://github.com/jabedhasan21/java-hello-world-with-maven
+Option 2: https://github.com/jabedhasan21/java-hello-world-with-maven
 Mvn compile
 Mvn package
 Cd target
 Then java -cp 
 then tab krt jaych ani hl. Jar file yet ty ala ki run krych
 
+Option 3: https://github.com/saadactin/java_portfolio (follow windows.md)
+
 Question 8 (Ruby Application)
+https://github.com/saadactin/ruby_portfolio (only on windows)
 
 Question 9 (PHP Application)
 https://github.com/ASoares/PHP-Form-Validation
@@ -36,4 +40,3 @@ php -S 127.0.0.1:8000/index.php
 
 Question 10 (Python notes Application)
 https://github.com/punitzen/Note-keeping-app-django?tab=readme-ov-file
-
